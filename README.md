@@ -1,57 +1,63 @@
-<<<<<<< HEAD
-# 🚌 Dynamic Route Rationalization System
+# 🚌 BusFlow - Dynamic Route Rationalisation System
 
-A full-stack smart route optimization system that uses Google Maps API, machine learning prediction, and live traffic data to dynamically suggest optimal bus routes for urban transport, built for DTC hackathon.
-
----
-
-## 🌐 Live Features
-
-- 📍 Route calculation with **live traffic conditions**
-- 🔀 Multiple alternative routes sorted by distance + traffic severity
-- 🎯 ML model-based **duration prediction** using `scikit-learn`
-- 🧠 Visual map controls: traffic layers, map type toggle, zoom
-- 🚌 Real-time bus stop markers on the map
+**BusFlow** is a web-based solution for optimizing public bus transportation routes in real-time based on current traffic conditions and machine learning predictions. The platform is built for government transit agencies and bus drivers to reduce delays, avoid bunching, and improve operational efficiency.
 
 ---
 
-## 🧱 Tech Stack
+## 🚀 Features
 
-| Layer      | Tools/Techs                             |
-|------------|------------------------------------------|
-| Backend    | Python, Flask, `joblib`, scikit-learn   |
-| Frontend   | HTML, CSS, JavaScript, Google Maps API  |
-| ML Model   | Trained with traffic duration features  |
-| Hosting    | Localhost (Flask), deployable to Render/Heroku |
+- 🗺️ **Interactive Google Maps Integration**  
+  Displays real-time bus routes with live traffic overlays for optimal path selection.
 
----
+- 🧠 **AI-Powered Travel Time Prediction**  
+  Integrated machine learning model estimates travel duration more accurately than traditional mapping tools.
 
-## 📁 Folder Structure
+- 📍 **Live Bus Tracking with Route Markers**  
+  Displays buses currently running on the same route for enhanced visibility and coordination.
 
-📦 dynamic-route-rationalization/
-├── app.py # Flask backend
-├── duration_predictor_model.joblib
-├── templates/
-│ └── index.html # Main UI
-├── static/
-│ ├── styles.css # UI styling
-│ ├── scripts.js # Map & route logic
-│ └── busMarkers.js # Bus location markers
-
+- 🧩 **Responsive Frontend with Modern Stack**  
+  Built using **HTML**, **CSS**, **JavaScript**, and **Google Maps API** with a clean, user-friendly interface.
 
 ---
 
-## 🔧 Getting Started
+## 🛠️ Tech Stack
 
-### Prerequisites
+| Layer        | Technology                            |
+|-------------|----------------------------------------|
+| Frontend     | HTML, CSS, JavaScript                 |
+| Mapping      | Google Maps JavaScript API            |
+| Machine Learning | Pretrained ML Model (Duration Prediction) |
+| Hosting/Deployment | GitHub Pages / Localhost               |
 
-- Python 3.9+
-- Google Maps API key (enabled for Maps + Places + Directions)
-- Install dependencies:
+---
 
-```bash
-pip install flask scikit-learn joblib
-=======
-# BusFlow
-Dynamic Route rationalization model
->>>>>>> db4d2cf05b1af8d0f7d9d9fc575ee02dbe6a1517
+## 🏛️ Government-Oriented Use Case
+
+This system is tailored for public transport authorities and bus captains to:
+- Monitor traffic-affected route performance
+- Make proactive decisions to reroute buses
+- Reduce wait times and passenger frustration
+
+---
+
+## 📂 Folder Structure (Brief)
+
+route-predictor/
+├── index.html
+├── style.css
+├── script.js
+├── predict.js
+├── data/
+│ └── traffic_data.json
+├── assets/
+│ └── icons/
+│ └── bus-marker.svg
+└── README.md
+
+---
+
+## 🤝 Contributors
+
+- **Dhrubo Ghosh** – Developer & ML Integration  
+> Connect on [GitHub](https://github.com/Dhrubo04) | [LinkedIn]([https://www.linkedin.com/in/dhrubo-ghosh/](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258/))
+
