@@ -59,5 +59,5 @@ route-predictor/
 ## 🤝 Contributors
 
 - **Dhrubo Ghosh** – Developer & ML Integration  
-> Connect on [GitHub](https://github.com/Dhrubo04) | [LinkedIn]([www.linkedin.com/in/dhrubo-ghosh-4663a0258/](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258/))
+> Connect on [GitHub](https://github.com/Dhrubo04) | [LinkedIn](www.linkedin.com/in/dhrubo-ghosh-4663a0258/)
 
