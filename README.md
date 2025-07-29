@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚌 Dynamic Route Rationalization System
 
 A full-stack smart route optimization system that uses Google Maps API, machine learning prediction, and live traffic data to dynamically suggest optimal bus routes for urban transport, built for DTC hackathon.
@@ -50,3 +51,7 @@ A full-stack smart route optimization system that uses Google Maps API, machine 
 
 ```bash
 pip install flask scikit-learn joblib
+=======
+# BusFlow
+Dynamic Route rationalization model
+>>>>>>> db4d2cf05b1af8d0f7d9d9fc575ee02dbe6a1517
