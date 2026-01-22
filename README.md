@@ -25,7 +25,7 @@
 | Layer        | Technology                            |
 |-------------|----------------------------------------|
 | Frontend     | HTML, CSS, JavaScript                 |
-| Mapping      | Google Maps JavaScript API            |
+| Mapping      | Google Maps  API            |
 | Machine Learning | Pretrained ML Model (Duration Prediction) |
 | Hosting/Deployment | GitHub Pages / Localhost               |
 
