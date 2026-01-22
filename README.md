@@ -57,9 +57,9 @@ route-predictor/
 ---
 ## 🖥️ User Interface
 
-![User Interface](UI1.png)
+![User Interface](UI1.jpg)
 
-![User Interface](UI2.png)
+![User Interface](UI2.jpg)
 
 ---
 ## 🤝 Contributors
