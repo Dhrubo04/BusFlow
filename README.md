@@ -55,7 +55,13 @@ route-predictor/
 └── README.md
 
 ---
+## 🖥️ User Interface
 
+![User Interface](UI1.png)
+
+![User Interface](UI2.png)
+
+---
 ## 🤝 Contributors
 
 - **Dhrubo Ghosh** – Developer & ML Integration  
